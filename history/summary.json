@@ -94,19 +94,19 @@
     "url": "https://status.jasoncameron.dev",
     "icon": "https://icons.duckduckgo.com/ip3/status.jasoncameron.dev.ico",
     "slug": "status-page-this-page",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
-    "time": 653,
-    "timeDay": 653,
-    "timeWeek": 653,
-    "timeMonth": 653,
-    "timeYear": 653,
+    "status": "up",
+    "uptime": "32.00%",
+    "uptimeDay": "32.00%",
+    "uptimeWeek": "32.00%",
+    "uptimeMonth": "32.00%",
+    "uptimeYear": "32.00%",
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2023-09-25": 0
+      "2023-09-25": 17
     }
   }
 ]
