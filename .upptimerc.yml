@@ -5,14 +5,28 @@ repo: status # The name of this repository
 sites:
   - name: Portfolio
     url: https://jasoncameron.dev
+    assignees: # Users to assign downtime issues
+      - JasonLovesDoggo
   - name: Foodle
     url: https://jasoncameron.dev/foodle/
+    assignees:
+      - JasonLovesDoggo
   - name: Metropolis
     url: https://maclyonsden.com
+    assignees:
+      - JasonLovesDoggo
   - name: Metropolis Client
     url: https://client.maclyonsden.com/
+    assignees:
+      - JasonLovesDoggo
+  - name: Metropolis Doodle
+    url: https://doodle.maclyonsden.com/
+    assignees:
+      - JasonLovesDoggo
   - name: Status page (this page)
     url: https://status.jasoncameron.dev
+    assignees:
+      - JasonLovesDoggo
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
