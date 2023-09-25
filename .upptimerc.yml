@@ -45,6 +45,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
-  footer: This page is [open source]($REPO) And Fully automated using Upptime!)
+  footer: This page is [open source]($REPO) And Fully automated using Upptime!
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
