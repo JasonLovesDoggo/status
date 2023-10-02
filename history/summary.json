@@ -40,19 +40,19 @@
     "url": "https://maclyonsden.com",
     "icon": "https://icons.duckduckgo.com/ip3/maclyonsden.com.ico",
     "slug": "metropolis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 190,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 230,
+    "timeDay": 210,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-10-02": 0
+      "2023-10-02": 8
     }
   },
   {
