@@ -76,18 +76,20 @@
     "url": "https://doodle.maclyonsden.com/",
     "icon": "https://icons.duckduckgo.com/ip3/doodle.maclyonsden.com.ico",
     "slug": "metropolis-doodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 126,
-    "timeWeek": 145,
-    "timeMonth": 135,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "time": 139,
+    "timeDay": 226,
+    "timeWeek": 167,
+    "timeMonth": 141,
+    "timeYear": 139,
+    "dailyMinutesDown": {
+      "2023-10-31": 0
+    }
   },
   {
     "name": "Status page (this page)",
