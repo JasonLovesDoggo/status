@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 203,
-    "timeWeek": 149,
+    "time": 135,
+    "timeDay": 105,
+    "timeWeek": 134,
     "timeMonth": 128,
-    "timeYear": 136,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
-    "timeDay": 111,
-    "timeWeek": 62,
-    "timeMonth": 53,
+    "timeDay": 63,
+    "timeWeek": 57,
+    "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {}
   },
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maclyonsden.com.ico",
     "slug": "metropolis",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 224,
-    "timeWeek": 254,
-    "timeMonth": 247,
+    "timeDay": 209,
+    "timeWeek": 243,
+    "timeMonth": 248,
     "timeYear": 246,
-    "dailyMinutesDown": {
-      "2023-11-07": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Metropolis Client",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 184,
-    "timeWeek": 128,
-    "timeMonth": 135,
-    "timeYear": 136,
+    "time": 134,
+    "timeDay": 83,
+    "timeWeek": 121,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 196,
-    "timeWeek": 141,
-    "timeMonth": 136,
+    "timeDay": 124,
+    "timeWeek": 117,
+    "timeMonth": 137,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 163,
-    "timeDay": 227,
-    "timeWeek": 157,
+    "time": 162,
+    "timeDay": 115,
+    "timeWeek": 142,
     "timeMonth": 133,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2023-09-25": 17
     }
