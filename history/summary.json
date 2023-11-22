@@ -40,18 +40,20 @@
     "url": "https://maclyonsden.com",
     "icon": "https://icons.duckduckgo.com/ip3/maclyonsden.com.ico",
     "slug": "metropolis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 245,
-    "timeWeek": 250,
-    "timeMonth": 342,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "time": 291,
+    "timeDay": 190,
+    "timeWeek": 236,
+    "timeMonth": 337,
+    "timeYear": 291,
+    "dailyMinutesDown": {
+      "2023-11-22": 0
+    }
   },
   {
     "name": "Metropolis Client",
