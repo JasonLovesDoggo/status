@@ -15,8 +15,12 @@ sites:
     url: https://maclyonsden.com
     assignees:
       - JasonLovesDoggo
-  - name: Metropolis Client
+  - name: Metropolis Client 
     url: https://client.maclyonsden.com/
+    assignees:
+      - JasonLovesDoggo
+  - name: Metropolis Client Prod
+    url: https://client-mock.maclyonsden.com/
     assignees:
       - JasonLovesDoggo
   - name: Metropolis Doodle
