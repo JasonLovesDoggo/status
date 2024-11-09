@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 171,
-    "timeWeek": 224,
-    "timeMonth": 177,
+    "timeDay": 83,
+    "timeWeek": 196,
+    "timeMonth": 173,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2024-09-10": 87
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 55,
-    "timeDay": 19,
-    "timeWeek": 87,
-    "timeMonth": 62,
+    "timeDay": 20,
+    "timeWeek": 83,
+    "timeMonth": 60,
     "timeYear": 55,
     "dailyMinutesDown": {
       "2024-09-10": 87
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.50%",
     "time": 345,
-    "timeDay": 315,
-    "timeWeek": 795,
-    "timeMonth": 444,
+    "timeDay": 265,
+    "timeWeek": 775,
+    "timeMonth": 441,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2024-10-17": 27,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.maclyonsden.com.ico",
     "slug": "metropolis-client",
     "status": "up",
-    "uptime": "92.27%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.33%",
     "time": 146,
-    "timeDay": 158,
+    "timeDay": 130,
     "timeWeek": 184,
-    "timeMonth": 175,
+    "timeMonth": 171,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2024-05-03": 383,
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 156,
-    "timeDay": 115,
-    "timeWeek": 164,
-    "timeMonth": 161,
+    "timeDay": 177,
+    "timeWeek": 173,
+    "timeMonth": 158,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-09-14": 714,
@@ -151,15 +151,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/doodle.maclyonsden.com.ico",
     "slug": "metropolis-doodle",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.81%",
     "time": 146,
-    "timeDay": 168,
-    "timeWeek": 186,
-    "timeMonth": 167,
+    "timeDay": 123,
+    "timeWeek": 190,
+    "timeMonth": 166,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2024-09-14": 713,
@@ -180,8 +180,7 @@
       "2024-04-14": 1384,
       "2023-12-26": 206,
       "2023-12-25": 1440,
-      "2023-12-24": 1126,
-      "2023-11-10": 61
+      "2023-12-24": 1126
     }
   },
   {
@@ -196,9 +195,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 103,
-    "timeWeek": 201,
-    "timeMonth": 183,
+    "timeDay": 154,
+    "timeWeek": 198,
+    "timeMonth": 179,
     "timeYear": 165,
     "dailyMinutesDown": {}
   }
