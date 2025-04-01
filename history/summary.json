@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 165,
-    "timeDay": 130,
-    "timeWeek": 219,
-    "timeMonth": 183,
+    "timeDay": 192,
+    "timeWeek": 213,
+    "timeMonth": 185,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-09-10": 87
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 56,
-    "timeDay": 41,
-    "timeWeek": 87,
-    "timeMonth": 59,
+    "timeDay": 79,
+    "timeWeek": 91,
+    "timeMonth": 61,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2024-09-10": 87
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 373,
-    "timeDay": 397,
-    "timeWeek": 368,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 374,
+    "timeDay": 426,
+    "timeWeek": 375,
+    "timeMonth": 396,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2025-01-29": 24,
       "2024-10-17": 27,
@@ -70,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.maclyonsden.com.ico",
     "slug": "metropolis-client",
     "status": "up",
-    "uptime": "94.27%",
+    "uptime": "94.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.33%",
     "time": 150,
-    "timeDay": 178,
-    "timeWeek": 154,
-    "timeMonth": 148,
+    "timeDay": 199,
+    "timeWeek": 159,
+    "timeMonth": 152,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-05-03": 383,
@@ -112,8 +112,7 @@
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
-      "2024-04-02": 1440,
-      "2024-04-01": 537
+      "2024-04-02": 1440
     }
   },
   {
@@ -128,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 156,
-    "timeDay": 176,
-    "timeWeek": 173,
-    "timeMonth": 143,
+    "timeDay": 209,
+    "timeWeek": 188,
+    "timeMonth": 145,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2024-09-14": 714,
@@ -150,10 +149,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.33%",
     "time": 152,
-    "timeDay": 179,
-    "timeWeek": 172,
-    "timeMonth": 158,
-    "timeYear": 157,
+    "timeDay": 207,
+    "timeWeek": 173,
+    "timeMonth": 161,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2025-02-09": 90,
       "2024-09-14": 713,
@@ -186,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 105,
-    "timeWeek": 208,
-    "timeMonth": 178,
+    "timeDay": 178,
+    "timeWeek": 219,
+    "timeMonth": 181,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
