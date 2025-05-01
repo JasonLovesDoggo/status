@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 160,
-    "timeDay": 143,
-    "timeWeek": 208,
-    "timeMonth": 187,
-    "timeYear": 169,
+    "time": 161,
+    "timeDay": 468,
+    "timeWeek": 254,
+    "timeMonth": 198,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2024-09-10": 87
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 56,
-    "timeDay": 56,
-    "timeWeek": 53,
-    "timeMonth": 63,
-    "timeYear": 57,
+    "timeDay": 182,
+    "timeWeek": 71,
+    "timeMonth": 67,
+    "timeYear": 58,
     "dailyMinutesDown": {
       "2024-09-10": 87
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 381,
-    "timeDay": 381,
-    "timeWeek": 371,
-    "timeMonth": 377,
-    "timeYear": 387,
+    "time": 382,
+    "timeDay": 687,
+    "timeWeek": 424,
+    "timeMonth": 385,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2025-01-29": 24,
       "2024-10-17": 27,
@@ -74,16 +74,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.39%",
     "time": 154,
-    "timeDay": 182,
-    "timeWeek": 208,
+    "timeDay": 193,
+    "timeWeek": 211,
     "timeMonth": 201,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2024-05-03": 383,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -98,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 156,
-    "timeDay": 163,
-    "timeWeek": 159,
-    "timeMonth": 157,
+    "timeDay": 207,
+    "timeWeek": 169,
+    "timeMonth": 156,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2024-09-14": 714,
@@ -114,16 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/doodle.maclyonsden.com.ico",
     "slug": "metropolis-doodle",
     "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "98.30%",
+    "uptime": "97.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.80%",
     "time": 154,
-    "timeDay": 111,
-    "timeWeek": 153,
+    "timeDay": 212,
+    "timeWeek": 157,
     "timeMonth": 162,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2025-04-29": 67,
       "2025-04-28": 5,
@@ -145,10 +144,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 176,
-    "timeWeek": 204,
-    "timeMonth": 190,
-    "timeYear": 182,
+    "timeDay": 424,
+    "timeWeek": 241,
+    "timeMonth": 201,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   }
 ]
