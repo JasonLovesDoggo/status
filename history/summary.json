@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 241,
-    "timeDay": 2340,
-    "timeWeek": 1037,
-    "timeMonth": 782,
-    "timeYear": 272,
+    "timeDay": 309,
+    "timeWeek": 746,
+    "timeMonth": 780,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2024-09-10": 87
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 87,
-    "timeDay": 302,
-    "timeWeek": 223,
-    "timeMonth": 230,
-    "timeYear": 100,
+    "timeDay": 210,
+    "timeWeek": 230,
+    "timeMonth": 228,
+    "timeYear": 101,
     "dailyMinutesDown": {
       "2024-09-10": 87
     }
@@ -50,18 +50,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 374,
-    "timeDay": 300,
-    "timeWeek": 335,
-    "timeMonth": 338,
-    "timeYear": 386,
+    "time": 373,
+    "timeDay": 314,
+    "timeWeek": 343,
+    "timeMonth": 339,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-01-29": 24,
       "2024-10-17": 27,
       "2024-09-19": 16,
       "2024-09-14": 716,
-      "2024-09-02": 82,
-      "2024-09-01": 88
+      "2024-09-02": 82
     }
   },
   {
@@ -70,15 +69,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.maclyonsden.com.ico",
     "slug": "metropolis-client",
     "status": "up",
-    "uptime": "95.51%",
+    "uptime": "95.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 288,
+    "timeDay": 229,
     "timeWeek": 243,
-    "timeMonth": 247,
+    "timeMonth": 248,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -88,20 +87,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/client-mock.maclyonsden.com.ico",
     "slug": "metropolis-client-prod",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 155,
-    "timeDay": 175,
-    "timeWeek": 203,
+    "timeDay": 98,
+    "timeWeek": 192,
     "timeMonth": 191,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2024-09-14": 714,
-      "2024-09-02": 82,
-      "2024-09-01": 86
+      "2024-09-02": 82
     }
   },
   {
@@ -110,23 +108,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/doodle.maclyonsden.com.ico",
     "slug": "metropolis-doodle",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 171,
-    "timeDay": 236,
-    "timeWeek": 321,
-    "timeMonth": 251,
+    "timeDay": 186,
+    "timeWeek": 278,
+    "timeMonth": 253,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2025-04-29": 67,
       "2025-04-28": 5,
       "2025-02-09": 90,
       "2024-09-14": 713,
-      "2024-09-02": 82,
-      "2024-09-01": 85
+      "2024-09-02": 82
     }
   },
   {
@@ -141,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 274,
-    "timeWeek": 266,
-    "timeMonth": 269,
+    "timeDay": 171,
+    "timeWeek": 264,
+    "timeMonth": 268,
     "timeYear": 204,
     "dailyMinutesDown": {}
   }
